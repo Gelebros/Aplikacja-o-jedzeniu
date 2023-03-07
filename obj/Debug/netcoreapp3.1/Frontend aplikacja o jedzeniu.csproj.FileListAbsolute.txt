@@ -1,0 +1,120 @@
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\obj\Debug\netcoreapp3.1\Frontend aplikacja o jedzeniu_MarkupCompile.cache
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\obj\Debug\netcoreapp3.1\Frontend aplikacja o jedzeniu_MarkupCompile.lref
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\Frontend aplikacja o jedzeniu.exe
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\Frontend aplikacja o jedzeniu.deps.json
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\Frontend aplikacja o jedzeniu.runtimeconfig.json
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\Frontend aplikacja o jedzeniu.runtimeconfig.dev.json
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\Frontend aplikacja o jedzeniu.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\Frontend aplikacja o jedzeniu.pdb
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\obj\Debug\netcoreapp3.1\Frontend aplikacja o jedzeniu.g.resources
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\obj\Debug\netcoreapp3.1\Frontend aplikacja o jedzeniu.AssemblyInfoInputs.cache
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\obj\Debug\netcoreapp3.1\Frontend aplikacja o jedzeniu.AssemblyInfo.cs
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\obj\Debug\netcoreapp3.1\Frontend aplikacja o jedzeniu.csproj.CoreCompileInputs.cache
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\obj\Debug\netcoreapp3.1\Frontend aplikacja o jedzeniu.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\obj\Debug\netcoreapp3.1\Frontend aplikacja o jedzeniu.pdb
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\obj\Debug\netcoreapp3.1\Frontend aplikacja o jedzeniu.genruntimeconfig.cache
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\obj\Debug\netcoreapp3.1\Frontend aplikacja o jedzeniu.csproj.AssemblyReference.cache
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\obj\Debug\netcoreapp3.1\Frontend aplikacja o jedzeniu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\obj\Debug\netcoreapp3.1\Frontend aplikacja o jedzeniu.csproj.CopyComplete
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Win32.UI.XamlHost.xml
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Win32.UI.XamlHost.Managed.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Wpf.UI.Controls.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Wpf.UI.Controls.WebView.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Wpf.UI.XamlHost.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win10-arm\native\Microsoft.Toolkit.Win32.UI.XamlHost.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win10-arm\native\Microsoft.Toolkit.Win32.UI.XamlHost.pri
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\Microsoft.Toolkit.Win32.UI.XamlHost.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\Microsoft.Toolkit.Win32.UI.XamlHost.pri
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\Microsoft.Toolkit.Win32.UI.XamlHost.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\Microsoft.Toolkit.Win32.UI.XamlHost.pri
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\Microsoft.Toolkit.Win32.UI.XamlHost.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\Microsoft.Toolkit.Win32.UI.XamlHost.pri
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\concrt140d_app.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\msvcp140_1d_app.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\msvcp140_2d_app.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\msvcp140d_app.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\vcamp140d_app.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\vccorlib140d_app.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\vcomp140d_app.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\vcruntime140d_app.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\concrt140_app.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\msvcp140_1_app.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\msvcp140_2_app.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\msvcp140_app.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\vcamp140_app.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\vccorlib140_app.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\vcomp140_app.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\vcruntime140_app.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\concrt140d_app.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\msvcp140_1d_app.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\msvcp140_2d_app.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\msvcp140d_app.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vcamp140d_app.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vccorlib140d_app.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vcomp140d_app.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vcruntime140_1d_app.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vcruntime140d_app.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\concrt140_app.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\msvcp140_1_app.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\msvcp140_2_app.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\msvcp140_app.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vcamp140_app.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vccorlib140_app.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vcomp140_app.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vcruntime140_1_app.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vcruntime140_app.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\concrt140d_app.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\msvcp140_1d_app.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\msvcp140_2d_app.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\msvcp140d_app.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\vcamp140d_app.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\vccorlib140d_app.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\vcomp140d_app.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\vcruntime140d_app.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\concrt140_app.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\msvcp140_1_app.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\msvcp140_2_app.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\msvcp140_app.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\vcamp140_app.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\vccorlib140_app.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\vcomp140_app.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\vcruntime140_app.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Win32.UI.XamlHost.winmd
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\Microsoft.Net.Http.Headers.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\bin\Debug\netcoreapp3.1\System.Windows.Forms.VisualStudio.15.0.dll
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\obj\Debug\netcoreapp3.1\BMIChanges.g.cs
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\obj\Debug\netcoreapp3.1\TotalCalories.g.cs
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\obj\Debug\netcoreapp3.1\BMIChanges.baml
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\obj\Debug\netcoreapp3.1\TotalCalories.baml
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\obj\Debug\netcoreapp3.1\Calendar.g.cs
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\obj\Debug\netcoreapp3.1\Calendar.baml
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\obj\Debug\netcoreapp3.1\FavLinks.g.cs
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\obj\Debug\netcoreapp3.1\FavLinks.baml
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\obj\Debug\netcoreapp3.1\EasterEgg.g.cs
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\obj\Debug\netcoreapp3.1\EasterEgg.baml
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\obj\Debug\netcoreapp3.1\RegistrationPage.g.cs
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\obj\Debug\netcoreapp3.1\RegistrationPage.baml
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\obj\Debug\netcoreapp3.1\CalculatorBMIPage.g.cs
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\obj\Debug\netcoreapp3.1\CalculatorCaloriesPage.g.cs
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\obj\Debug\netcoreapp3.1\StoragePage.g.cs
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\obj\Debug\netcoreapp3.1\UserPage.g.cs
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\obj\Debug\netcoreapp3.1\WebSearchPage.g.cs
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\obj\Debug\netcoreapp3.1\CalculatorBMIPage.baml
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\obj\Debug\netcoreapp3.1\CalculatorCaloriesPage.baml
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\obj\Debug\netcoreapp3.1\StoragePage.baml
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\obj\Debug\netcoreapp3.1\UserPage.baml
+C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\obj\Debug\netcoreapp3.1\WebSearchPage.baml

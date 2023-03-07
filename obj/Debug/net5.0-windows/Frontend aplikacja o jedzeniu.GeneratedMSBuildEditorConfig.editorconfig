@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0-windows
+build_property.TargetPlatformMinVersion = 10.0.18362.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = Frontend_aplikacja_o_jedzeniu
+build_property.ProjectDir = C:\Users\-kondzio\source\repos\Frontend aplikacja o jedzeniu\Frontend aplikacja o jedzeniu\
