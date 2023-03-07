@@ -1,0 +1,23 @@
+﻿<Page x:Class="Frontend_aplikacja_o_jedzeniu.StoragePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Frontend_aplikacja_o_jedzeniu"
+      mc:Ignorable="d" 
+      d:DesignHeight="485" d:DesignWidth="709"
+      Title="Stronaschowel">
+
+    <Grid>
+        <Button x:Name="btnCalendar" Content="Calendar" HorizontalAlignment="Left" Margin="70,55,0,0" VerticalAlignment="Top" Height="55" Width="175" Click="btnCalendar_Click"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="474,32,0,0" VerticalAlignment="Top" Width="100" Source="/icons8_calendar_32px.png"/>
+        <Button x:Name="btntotalCal" Content="The total amount of calories" HorizontalAlignment="Left" Margin="70,170,0,0" VerticalAlignment="Top" Height="54" Width="175" Click="btntotalCal_Click"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="474,147,0,0" VerticalAlignment="Top" Width="100" Source="/icons8_calories_32px.png"/>
+        <Button x:Name="btnChangesBMI" Content="BMI changes" HorizontalAlignment="Left" Height="60" Margin="70,270,0,0" VerticalAlignment="Top" Width="175" Click="btnChangesBMI_Click"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="474,252,0,0" VerticalAlignment="Top" Width="100" Source="/icons8_heart_32px.png"/>
+        <Button x:Name="btnFvLinks" Content="Favorite Links&#xA;" HorizontalAlignment="Left" Height="60" Margin="70,385,0,0" VerticalAlignment="Top" Width="175" Click="btnFvLinks_Click"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="474,357,0,0" VerticalAlignment="Top" Width="100" Source="/icons8_smiling_face_with_heart_32px.png"/>
+
+    </Grid>
+</Page>
+

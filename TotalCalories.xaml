@@ -1,0 +1,33 @@
+﻿<Page x:Class="Frontend_aplikacja_o_jedzeniu.TotalCalories"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Frontend_aplikacja_o_jedzeniu"
+      mc:Ignorable="d" 
+      d:DesignHeight="485" d:DesignWidth="709"
+      Title="TotalCalories">
+    <Page.Resources>
+        <Style x:Key="DataGridCell" TargetType="{x:Type DataGridCell}">
+            <!-- Tutaj można ustawić właściwości stylów dla komórek w DataGrid -->
+        </Style>
+        <Style x:Key="DataGridRow" TargetType="{x:Type DataGridRow}">
+            <!-- Tutaj można ustawić właściwości stylów dla wierszy w DataGrid -->
+        </Style>
+    </Page.Resources>
+
+    <Grid>
+        <DataGrid x:Name="datagridTotalCal" Margin="217,160,217,75" SelectionChanged="datagridTotalCal_SelectionChanged" AutoGenerateColumns="False"
+                  IsReadOnly="True"  CanUserAddRows="False"
+      CellStyle="{StaticResource DataGridCell}"
+      RowStyle="{StaticResource DataGridRow}"
+      ItemsSource="{Binding }">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="RecordDate" Binding="{Binding RecordDate}" MinWidth="8" Width="99" MaxWidth="100" FontSize="20"/>
+                <DataGridTextColumn Header="Calories" Binding="{Binding Calories}" FontSize="20"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Label x:Name="lblTotalCal" Content="Label" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top" Width="661" Height="130"/>
+
+    </Grid>
+</Page>

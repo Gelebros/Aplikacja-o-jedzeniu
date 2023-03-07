@@ -1,0 +1,26 @@
+﻿<Page x:Class="Frontend_aplikacja_o_jedzeniu.BMIChanges"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Frontend_aplikacja_o_jedzeniu"
+      mc:Ignorable="d" 
+      d:DesignHeight="485" d:DesignWidth="709"
+      Title="BMIChanges">
+
+    <Grid>
+        <DataGrid x:Name="datagridBMI" Margin="165,200,149,35" SelectionChanged="datagridBMI_SelectionChanged" AutoGenerateColumns="False" FontSize="20">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Username" Binding="{Binding Username}"/>
+                <DataGridTextColumn Header="Weight" Binding="{Binding Weight}"/>
+                <DataGridTextColumn Header="Height" Binding="{Binding Height}"/>
+                <DataGridTextColumn Header="Gender" Binding="{Binding Gender}"/>
+                <DataGridTextColumn Header="Bmi" Binding="{Binding Bmi}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <RichTextBox x:Name="rtxBMIChang" Margin="10,10,10,305" TextChanged="rtxBMIChang_TextChanged" FontSize="18" FontFamily="Arial Black" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="Black" SelectionBrush="Black" SelectionTextBrush="#FF050404" BorderThickness="0,0,0,0">
+            <FlowDocument/>
+        </RichTextBox>
+
+    </Grid>
+</Page>

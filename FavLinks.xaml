@@ -1,0 +1,22 @@
+﻿<Page x:Class="Frontend_aplikacja_o_jedzeniu.FavLinks"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Frontend_aplikacja_o_jedzeniu"
+      mc:Ignorable="d" 
+      d:DesignHeight="485" d:DesignWidth="709"
+      Title="FavLinks">
+
+    <Grid>
+        <ListView x:Name="ListVFavLinks"  Margin="20,10,19,60" SelectionChanged="ListVFavLinks_SelectionChanged">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Links" Width="300" DisplayMemberBinding="{Binding}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Button x:Name="BtnDeleteSelLink" Content="Delete Selected Link" HorizontalAlignment="Center" Margin="0,430,0,0" VerticalAlignment="Top" Width="670" Height="30" FontSize="16" Click="BtnDeleteSelLink_Click"/>
+
+    </Grid>
+</Page>

@@ -1,0 +1,38 @@
+﻿<Window x:Class="Frontend_aplikacja_o_jedzeniu.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Frontend_aplikacja_o_jedzeniu"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="542" Width="984" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" WindowStyle="None">
+    <Grid Margin="0,0,0,-13" Background="#FFC2E0C3">
+        <Grid Margin="0,0,714,0" Background="#FF3EA258">
+            <Image HorizontalAlignment="Left" Height="60" Margin="0,430,0,0" VerticalAlignment="Top" Width="74" Source="/icons8_search_32px_1.png"/>
+            <Image HorizontalAlignment="Left" Height="70" Margin="10,135,0,0" VerticalAlignment="Top" Width="77" Source="/icons8_closet_32px.png"/>
+            <Image HorizontalAlignment="Left" Height="90" Margin="10,10,0,0" VerticalAlignment="Top" Width="75" Source="/icons8_male_user_32px_1.png" RenderTransformOrigin="0.2,0.556"/>
+            <Image HorizontalAlignment="Left" Height="53" Margin="9,246,0,0" VerticalAlignment="Top" Width="71" Source="/icons8_fruit_bag_32px_1.png"/>
+            <Button x:Name="btnMenuLogin" Content="Login" HorizontalAlignment="Left" Margin="98,25,0,0" VerticalAlignment="Top" Height="60" Width="126" Click="btnMenuLogin_Click" Background="{x:Null}" BorderBrush="#FF3EA258" Foreground="#FFF3ED33" FontSize="24"/>
+            <Button x:Name="btnMenuSchowek" Content="Storage" HorizontalAlignment="Left" Margin="108,145,0,0" VerticalAlignment="Top" Height="50" Width="106" Click="btnMenuSchowek_Click" FontSize="24" Background="{x:Null}" BorderBrush="#FF3EA258" Foreground="#FFF3ED3F"/>
+            <Button x:Name="btnMenuBMI" Content="BMI Calculator" HorizontalAlignment="Left" Margin="76,350,0,0" VerticalAlignment="Top" Height="40" Width="171" FontSize="24" Background="{x:Null}" BorderBrush="#FF3EA258" Foreground="#FFF2ED47" Click="btnMenuBMI_Click"/>
+            <Button x:Name="btnMenuKalorie" Content="Calorie Calculator" HorizontalAlignment="Left" Margin="70,0,0,0" VerticalAlignment="Center" FontSize="24" Background="{x:Null}" BorderBrush="#FF3EA258" Foreground="#FFEFEC4A" RenderTransformOrigin="0.52,0.251" Click="btnMenuKalorie_Click"/>
+            <Button x:Name="btnMenusearch" Content="Search" HorizontalAlignment="Left" Margin="85,442,0,0" VerticalAlignment="Top" Background="{x:Null}" BorderBrush="#FF3EA258" Foreground="#FFE6DB54" FontSize="24" Click="btnMenusearch_Click"/>
+        </Grid>
+        <Grid Margin="255,0,0,490" Background="#FF3EA258" MouseLeftButtonDown="Grid_MouseLeftButtonDown">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="4*"/>
+                <RowDefinition Height="9*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="190*"/>
+                <ColumnDefinition Width="539*"/>
+            </Grid.ColumnDefinitions>
+            <Image Grid.Column="1" HorizontalAlignment="Left" Height="44" Margin="485,10,0,0" VerticalAlignment="Top" Width="79" Source="/icons8_close_32px_1.png" RenderTransformOrigin="0.689,0.784" MouseDown="Image_MouseDown" Grid.RowSpan="2"/>
+        </Grid>
+        <Image HorizontalAlignment="Left" Height="55" Margin="10,345,0,0" VerticalAlignment="Top" Width="49" Source="/icons8_calculator_32px_3.png"/>
+        <Image HorizontalAlignment="Left" Height="60" Margin="861,6,0,0" VerticalAlignment="Top" Width="59" Source="/icons8_question_mark_32px.png" MouseDown="Image_MouseDown_1"/>
+        <Image HorizontalAlignment="Left" Height="48" Margin="808,10,0,0" VerticalAlignment="Top" Width="52" Source="/icons8_home_32px_2.png"/>
+        <Frame x:Name="Main" NavigationUIVisibility="Hidden" HorizontalAlignment="Left" Height="485" Margin="275,70,0,0" VerticalAlignment="Top" Width="709"/>
+
+    </Grid>
+</Window>

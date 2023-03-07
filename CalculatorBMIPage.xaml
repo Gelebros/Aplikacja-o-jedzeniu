@@ -1,0 +1,23 @@
+﻿<Page x:Class="Frontend_aplikacja_o_jedzeniu.CalculatorBMIPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Frontend_aplikacja_o_jedzeniu"
+      mc:Ignorable="d" 
+      d:DesignHeight="485" d:DesignWidth="709"
+      Title="StronakalkulatorBMI">
+
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="60,294,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Foreground="#FF181616" Background="#FFF0E9E9" Height="26" Width="70" Text="Weight(kg):"/>
+        <TextBlock HorizontalAlignment="Left" Margin="369,294,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Foreground="#FF181616" Background="#FFF0E9E9" Height="26" Width="70" Text="Heightcm):"/>
+        <Button x:Name="btncalculateBMI" Content="Calculate" HorizontalAlignment="Left" Margin="280,345,0,0" VerticalAlignment="Top" Height="40" Width="90" Click="btncalculateBMI_Click"/>
+        <TextBlock HorizontalAlignment="Left" Margin="60,145,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="23" Width="70" Background="#FFEEE8E8" Text="Result"/>
+        <Button x:Name="btnSaveBMI" Content="Save " HorizontalAlignment="Left" Margin="570,405,0,0" VerticalAlignment="Top" Height="55" Width="100" Click="btnSaveBMI_Click"/>
+        <TextBox x:Name="txtweightbox" HorizontalAlignment="Left" Margin="165,294,0,0" Text="60" TextWrapping="Wrap" VerticalAlignment="Top" Width="125" Height="26"/>
+        <TextBox x:Name="txtheightbox" HorizontalAlignment="Left" Margin="480,294,0,0" Text="170" TextWrapping="Wrap" VerticalAlignment="Top" Width="125" Height="26"/>
+        <Label x:Name="lblresultBMI" Content="Don't worry" HorizontalAlignment="Left" Margin="182,136,0,0" VerticalAlignment="Top" Width="468" Background="{x:Null}" FontSize="22"/>
+        <RadioButton x:Name="RbtnFemale" Content="Female" HorizontalAlignment="Left" Margin="182,242,0,0" VerticalAlignment="Top" Width="78" Foreground="#FFDC1B1B"/>
+        <RadioButton x:Name="RbtnMale" Content="Male" HorizontalAlignment="Left" Margin="446,242,0,0" VerticalAlignment="Top" Width="84" Foreground="#FFDF2C2C"/>
+    </Grid>
+</Page>

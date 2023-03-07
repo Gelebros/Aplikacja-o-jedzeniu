@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="BMIChanges.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Calendar.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="EasterEgg.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="FavLinks.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="CalculatorBMIPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="CalculatorCaloriesPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="RegistrationPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="StoragePage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="TotalCalories.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="WebSearchPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="BMIChanges.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Calendar.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="EasterEgg.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="FavLinks.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="CalculatorBMIPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="CalculatorCaloriesPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="RegistrationPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="StoragePage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="TotalCalories.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="WebSearchPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

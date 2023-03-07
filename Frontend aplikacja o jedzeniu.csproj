@@ -1,0 +1,75 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Frontend_aplikacja_o_jedzeniu</RootNamespace>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="flyingstork.png" />
+    <None Remove="icons8_calculator_32px_3.png" />
+    <None Remove="icons8_calendar_32px.png" />
+    <None Remove="icons8_calories_32px.png" />
+    <None Remove="icons8_closet_32px.png" />
+    <None Remove="icons8_close_32px_1.png" />
+    <None Remove="icons8_cloud_80px.png" />
+    <None Remove="icons8_cloud_80px_1.png" />
+    <None Remove="icons8_flying_stork_96px.png" />
+    <None Remove="icons8_flying_stork_with_bundle_96px.png" />
+    <None Remove="icons8_fruit_bag_32px_1.png" />
+    <None Remove="icons8_grass_48px.png" />
+    <None Remove="icons8_grass_64px.png" />
+    <None Remove="icons8_heart_32px.png" />
+    <None Remove="icons8_home_32px_2.png" />
+    <None Remove="icons8_ladybird_96px.png" />
+    <None Remove="icons8_large_tree_96px.png" />
+    <None Remove="icons8_male_user_32px_1.png" />
+    <None Remove="icons8_question_mark_32px.png" />
+    <None Remove="icons8_search_32px.png" />
+    <None Remove="icons8_search_32px_1.png" />
+    <None Remove="icons8_smiling_face_with_heart_32px.png" />
+    <None Remove="icons8_sun_96px_2.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Toolkit.Wpf.UI.Controls" Version="6.1.2" />
+    <PackageReference Include="Microsoft.Toolkit.Wpf.UI.Controls.WebView" Version="6.1.2" />
+    <PackageReference Include="Microsoft.Toolkit.Wpf.UI.XamlHost" Version="6.1.2" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="System.Windows.Forms.VisualStudio.15.0">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\System.Windows.Forms.VisualStudio.15.0.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="icons8_calculator_32px_3.png" />
+    <Resource Include="icons8_calendar_32px.png" />
+    <Resource Include="icons8_calories_32px.png" />
+    <Resource Include="icons8_closet_32px.png" />
+    <Resource Include="icons8_close_32px_1.png" />
+    <Resource Include="icons8_cloud_80px.png" />
+    <Resource Include="icons8_cloud_80px_1.png" />
+    <Resource Include="icons8_flying_stork_96px.png" />
+    <Resource Include="icons8_flying_stork_with_bundle_96px.png" />
+    <Resource Include="icons8_fruit_bag_32px_1.png" />
+    <Resource Include="icons8_grass_48px.png" />
+    <Resource Include="icons8_grass_64px.png" />
+    <Resource Include="icons8_heart_32px.png" />
+    <Resource Include="icons8_home_32px_2.png" />
+    <Resource Include="icons8_ladybird_96px.png" />
+    <Resource Include="icons8_large_tree_96px.png" />
+    <Resource Include="icons8_male_user_32px_1.png" />
+    <Resource Include="icons8_question_mark_32px.png" />
+    <Resource Include="icons8_search_32px.png" />
+    <Resource Include="icons8_search_32px_1.png" />
+    <Resource Include="icons8_smiling_face_with_heart_32px.png" />
+    <Resource Include="icons8_sun_96px_2.png" />
+  </ItemGroup>
+
+</Project>

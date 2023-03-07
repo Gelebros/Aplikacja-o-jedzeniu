@@ -1,0 +1,20 @@
+﻿<Page x:Class="Frontend_aplikacja_o_jedzeniu.EasterEgg"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Frontend_aplikacja_o_jedzeniu"
+      mc:Ignorable="d" 
+       d:DesignHeight="485" d:DesignWidth="709"
+      Title="EasterEgg">
+
+    <Grid>
+        <TextBox x:Name="TxtHoursBox" HorizontalAlignment="Left" Margin="165,0,0,0" TextWrapping="Wrap" VerticalAlignment="Center" Width="120" Text="HH"/>
+        <Label x:Name="lblSleep" Content="Good job for finding me!" HorizontalAlignment="Left" Margin="115,44,0,0" VerticalAlignment="Top" Width="410" Height="141"/>
+        <Button x:Name="BtnCalSleep" Content="Result" HorizontalAlignment="Left" Margin="165,320,0,0" VerticalAlignment="Top" Height="48" Width="105" Click="BtnCalSleep_Click"/>
+        <TextBox x:Name="TxtMinBox" HorizontalAlignment="Left" Margin="390,0,0,0" TextWrapping="Wrap" VerticalAlignment="Center" Width="120" Text="mm"/>
+        <Button x:Name="BtnResetSleep" Content="Reset" HorizontalAlignment="Left" Margin="397,320,0,0" VerticalAlignment="Top" Height="50" Width="105" Click="BtnResetSleep_Click"/>
+        <Label Content="Check,  in what time you need to wake up to have best rest! Enter the hour and in next text box enter minutes." HorizontalAlignment="Left" Margin="75,280,0,0" VerticalAlignment="Top" Width="590"/>
+
+    </Grid>
+</Page>

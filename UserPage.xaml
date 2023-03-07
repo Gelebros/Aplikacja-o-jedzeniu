@@ -1,0 +1,21 @@
+﻿<Page x:Class="Frontend_aplikacja_o_jedzeniu.UserPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Frontend_aplikacja_o_jedzeniu"
+      mc:Ignorable="d" 
+      d:DesignHeight="485" d:DesignWidth="709"
+      Title="stronaużytkownik">
+
+    <Grid Background="#FFC2E0C3" >
+        <TextBlock HorizontalAlignment="Left" Margin="140,158,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="34" Width="50" Background="#FFEAE3E3"><Run Language="pl-pl" Text="Login:"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="140,283,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="34" Width="50" Background="#FFEAE3E3"><Run Language="pl-pl" Text="Hasło:"/></TextBlock>
+        <Button x:Name="btnaccept" Content="Accept" HorizontalAlignment="Left" Margin="525,152,0,0" VerticalAlignment="Top" Height="46" Width="85" Click="btnaccept_Click"/>
+        <Button x:Name="btncreateaccount" Content="Create Account" HorizontalAlignment="Left" Margin="525,278,0,0" VerticalAlignment="Top" Height="44" Width="85" Click="btncreateaccount_Click"/>
+        <TextBox x:Name="txtusserbox" HorizontalAlignment="Center" Margin="0,158,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="260" Height="40"/>
+        <PasswordBox x:Name="txtpasswordbox" HorizontalAlignment="Center" Margin="0,278,0,0" VerticalAlignment="Top" Width="260" Height="44"/>
+        <Label x:Name="lblLoginStatus" Content="" HorizontalAlignment="Center" Margin="0,390,0,0" VerticalAlignment="Top" Width="628" Height="66" FontSize="20"/>
+
+    </Grid>
+</Page>
