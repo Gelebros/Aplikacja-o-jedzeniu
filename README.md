@@ -13,7 +13,7 @@ It's a simple desktop app with 3 diffrent calculators(BMI,Calories,Sleep Cycles)
  ## Technologies
  * .NET core 3.1 
  * SQL Server 15.0.2000
- ## General Feauters
+ ## General Features
  ### Functional requirements:
 #### a) Administrator's part:
 * Creating a database
