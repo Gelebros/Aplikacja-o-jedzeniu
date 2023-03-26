@@ -3,7 +3,7 @@ It's a simple desktop app with 3 diffrent calculators(BMI,Calories,Sleep Cycles)
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [General Features](#general-featuers)
+* [General Features](#general-features)
 * [Setup](#setup)
 * [Status](#status)
 
